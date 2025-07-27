@@ -1,4 +1,4 @@
-# -OIBSIP_domain_taskno.3
+# -OIBSIP_domain_taskno.2
 Project  3 of Oasis Intern
 This is a **simple, user-friendly BMI (Body Mass Index) Calculator** built with **Python** , using
 Tkinter for the GUI, SQLite for storing user history, and matplotlib for showing BMI trend graphs.
